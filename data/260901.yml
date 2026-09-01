@@ -1,0 +1,75 @@
+about:
+  description: Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub.
+  license: Apache-2.0
+  homepage: https://testingisdocumenting.org/znai
+  head: 989d74b
+  archived: false
+  latestVersion: 1.92
+  collectedAt: 2026-09-01T05:45:45Z
+timeline:
+  created: 2016-12-16
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 280
+  watcher: 8
+  fork: 21
+  release: 58
+  contributor: 14
+  pullRequest: 175
+  issue: 276
+language:
+  Java: 1577054
+  JavaScript: 883146
+  TypeScript: 727987
+  Groovy: 652444
+  CSS: 215330
+  ANTLR: 61980
+  Python: 44258
+  Jupyter Notebook: 34589
+  HTML: 8911
+  C++: 6077
+  OCaml: 1657
+  XSLT: 682
+  Makefile: 611
+  FreeMarker: 555
+  Mermaid: 375
+  Shell: 210
+  Batchfile: 97
+  ASL: 97
+  Scala: 84
+  C: 78
+totalLine: 4216222
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 12
+    openPR: 13
+    closedIssue: 2
+    openIssue: 0
+    commit: 17
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 13
+    openPR: 13
+    closedIssue: 2
+    openIssue: 0
+    commit: 17
+  last180d:
+    since: 2026-03-05
+    release: 6
+    mergedPR: 60
+    openPR: 13
+    closedIssue: 8
+    openIssue: 0
+    commit: 79
+  last360d:
+    since: 2025-09-06
+    release: 11
+    mergedPR: 131
+    openPR: 14
+    closedIssue: 21
+    openIssue: 1
+    commit: 171
