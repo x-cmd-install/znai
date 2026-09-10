@@ -12,35 +12,7 @@ Build functional, maintainable, beautiful User Guides with markdown and Znai plu
 x install znai
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/testingisdocumenting/znai>
-- **Homepage**: <https://testingisdocumenting.org/znai>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `1.93` (2026-09-04)
-- **Last commit**: 2026-09-04
-- **Published**: 2026-09-04T02:40:02Z
-
-## Popularity
-
-- **Stars**: 279 · **Forks**: 21 · **Open issues**: 277 · **Contributors**: 14
-
-## Totals (cumulative)
-
-- **Releases**: 59 · **Merged PRs**: 1148 · **Open PRs**: 14 · **Closed issues**: 273 · **Open issues**: 4 · **Commits**: 2506
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 15 | 13 | 2 | 0 | 24 |
-| 90d | 2026-06-12 | 3 | 17 | 13 | 3 | 0 | 24 |
-| 360d | 2025-09-15 | 12 | 125 | 14 | 20 | 1 | 171 |
-
-## Code size
+## Code insight
 
 Total: **111,569** lines of code across **1175** files in the top 5 languages.
 
@@ -62,13 +34,43 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/testingisdocumenting/znai>
+- **Homepage**: <https://testingisdocumenting.org/znai>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `1.93` (2026-09-04)
+- **Last commit**: 2026-09-04
+
+## Popularity
+
+- **Stars**: 279 · **Forks**: 21 · **Open issues**: 277 · **Contributors**: 14
+
+## Totals (cumulative)
+
+- **Releases**: 59 · **Merged PRs**: 1148 · **Open PRs**: 15 · **Closed issues**: 273 · **Open issues**: 4 · **Commits**: 2506
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 15 | 14 | 2 | 0 | 24 |
+| last60d | 2026-07-12 | 3 | 17 | 14 | 3 | 0 | 24 |
+| 90d | 2026-06-12 | 3 | 17 | 14 | 3 | 0 | 24 |
+| last180d | 2026-03-14 | 6 | 59 | 14 | 8 | 0 | 83 |
+| 360d | 2025-09-15 | 12 | 125 | 15 | 20 | 1 | 171 |
+| last720d | 2024-09-20 | 19 | 224 | 15 | 31 | 3 | 308 |
+
 ## Improve this data
 
 Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `znai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/znai.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/znai.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:51:10Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:46:06Z._

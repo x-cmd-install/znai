@@ -4,7 +4,7 @@
 
 Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub.
 
-![znai](https://repo.x-cmd.io/znai.svg)
+![znai](https://repo.x-cmd.io/znai.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ Build functional, maintainable, beautiful User Guides with markdown and Znai plu
 x install znai
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/testingisdocumenting/znai>
-- **官网**: <https://testingisdocumenting.org/znai>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `1.93` (2026-09-04)
-- **最近提交**: 2026-09-04
-- **发布时间**: 2026-09-04T02:40:02Z
-
-## 流行度
-
-- **Star**: 279 · **Fork**: 21 · **开放 issue**: 277 · **贡献者**: 14
-
-## 累计统计
-
-- **发布数**: 59 · **已合并 PR**: 1148 · **开放 PR**: 14 · **已关闭 issue**: 273 · **开放 issue**: 4 · **提交数**: 2506
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 15 | 13 | 2 | 0 | 24 |
-| 90d | 2026-06-12 | 3 | 17 | 13 | 3 | 0 | 24 |
-| 360d | 2025-09-15 | 12 | 125 | 14 | 20 | 1 | 171 |
-
-## 代码规模
+## 代码洞察
 
 合计: **111,569** 行代码（覆盖前 5 种语言、共 **1175** 个文件）。
 
@@ -62,6 +34,36 @@ x install znai
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## 源代码
+
+- **上游仓库**: <https://github.com/testingisdocumenting/znai>
+- **官网**: <https://testingisdocumenting.org/znai>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `1.93` (2026-09-04)
+- **最近提交**: 2026-09-04
+
+## 流行度
+
+- **Star**: 279 · **Fork**: 21 · **开放 issue**: 277 · **贡献者**: 14
+
+## 累计统计
+
+- **发布数**: 59 · **已合并 PR**: 1148 · **开放 PR**: 15 · **已关闭 issue**: 273 · **开放 issue**: 4 · **提交数**: 2506
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 15 | 14 | 2 | 0 | 24 |
+| last60d | 2026-07-12 | 3 | 17 | 14 | 3 | 0 | 24 |
+| 90d | 2026-06-12 | 3 | 17 | 14 | 3 | 0 | 24 |
+| last180d | 2026-03-14 | 6 | 59 | 14 | 8 | 0 | 83 |
+| 360d | 2025-09-15 | 12 | 125 | 15 | 20 | 1 | 171 |
+| last720d | 2024-09-20 | 19 | 224 | 15 | 31 | 3 | 308 |
+
 ## 改进这些数据
 
 znai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `znai` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +73,4 @@ znai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:51:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:46:08Z._
