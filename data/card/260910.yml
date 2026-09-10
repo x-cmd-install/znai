@@ -7,7 +7,7 @@ about:
   latestVersion: "1.93"
   latestRelease: "1.93"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:46:39Z
+  collectedAt: 2026-09-10T23:45:51Z
 timeline:
   created: 2016-12-16
   lastCommit: 2026-09-04
@@ -102,7 +102,7 @@ total:
   commit: 2506
 ---
 path: /home/runner/.x-repo/github.com/testingisdocumenting/znai
-collectedAt: 2026-09-10T17:46:49Z
+collectedAt: 2026-09-10T23:46:01Z
 loc:
   Java:
     code: 28427
