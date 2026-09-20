@@ -4,7 +4,7 @@
 
 Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub.
 
-![znai](https://repo.x-cmd.io/znai.svg)
+[![x-cmd/install — znai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/znai.svg)](https://x-cmd.com/install/znai)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 13 | 15 | 2 | 0 | 24 |
-| last60d | 2026-07-20 | 3 | 17 | 15 | 3 | 0 | 24 |
-| 90d | 2026-06-20 | 3 | 17 | 15 | 3 | 0 | 24 |
-| last180d | 2026-03-22 | 6 | 57 | 15 | 8 | 0 | 74 |
-| 360d | 2025-09-23 | 12 | 125 | 16 | 20 | 1 | 171 |
-| last720d | 2024-09-28 | 19 | 222 | 16 | 31 | 3 | 307 |
+| 30d | 2026-08-21 | 3 | 13 | 15 | 2 | 0 | 13 |
+| last60d | 2026-07-22 | 3 | 17 | 15 | 3 | 0 | 24 |
+| 90d | 2026-06-22 | 3 | 17 | 15 | 3 | 0 | 24 |
+| last180d | 2026-03-24 | 6 | 55 | 15 | 8 | 0 | 74 |
+| 360d | 2025-09-25 | 12 | 125 | 16 | 20 | 1 | 171 |
+| last720d | 2024-09-30 | 19 | 221 | 16 | 30 | 3 | 305 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:50:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:57:52Z._
