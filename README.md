@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 13 | 15 | 2 | 0 | 13 |
-| last60d | 2026-07-23 | 3 | 17 | 15 | 3 | 0 | 24 |
-| 90d | 2026-06-23 | 3 | 17 | 15 | 3 | 0 | 24 |
-| last180d | 2026-03-25 | 6 | 55 | 15 | 8 | 0 | 74 |
-| 360d | 2025-09-26 | 12 | 125 | 16 | 20 | 1 | 171 |
-| last720d | 2024-10-01 | 18 | 220 | 16 | 30 | 3 | 303 |
+| 30d | 2026-08-23 | 3 | 12 | 15 | 2 | 0 | 13 |
+| last60d | 2026-07-24 | 3 | 17 | 15 | 3 | 0 | 24 |
+| 90d | 2026-06-24 | 3 | 17 | 15 | 3 | 0 | 24 |
+| last180d | 2026-03-26 | 6 | 55 | 15 | 8 | 0 | 74 |
+| 360d | 2025-09-27 | 12 | 125 | 16 | 20 | 1 | 171 |
+| last720d | 2024-10-02 | 18 | 219 | 16 | 30 | 3 | 302 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:07:52Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:56:00Z._
