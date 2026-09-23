@@ -4,7 +4,7 @@
 
 Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub.
 
-[![x-cmd/install — znai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/znai.svg?lang=zh)](https://x-cmd.com/install/znai)
+[![x-cmd/install — znai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/znai.svg?lang=zh)](https://x-cmd.com/install/znai)
 
 ## 安装
 
@@ -57,12 +57,12 @@ x install znai
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 12 | 15 | 2 | 0 | 13 |
-| last60d | 2026-07-24 | 3 | 17 | 15 | 3 | 0 | 24 |
-| 90d | 2026-06-24 | 3 | 17 | 15 | 3 | 0 | 24 |
-| last180d | 2026-03-26 | 6 | 55 | 15 | 8 | 0 | 74 |
-| 360d | 2025-09-27 | 12 | 125 | 16 | 20 | 1 | 171 |
-| last720d | 2024-10-02 | 18 | 219 | 16 | 30 | 3 | 302 |
+| 30d | 2026-08-24 | 3 | 12 | 15 | 2 | 0 | 13 |
+| last60d | 2026-07-25 | 3 | 17 | 15 | 3 | 0 | 24 |
+| 90d | 2026-06-25 | 3 | 17 | 15 | 3 | 0 | 24 |
+| last180d | 2026-03-27 | 6 | 55 | 15 | 8 | 0 | 74 |
+| 360d | 2025-09-28 | 12 | 125 | 16 | 20 | 1 | 171 |
+| last720d | 2024-10-03 | 18 | 218 | 16 | 30 | 3 | 302 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ znai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:56:01Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:08:42Z._
