@@ -30,8 +30,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 3 | 6 | 15 | 2 | 0 | 0 |
-| last60d | 2026-07-31 | 3 | 16 | 16 | 3 | 0 | 24 |
-| 90d | 2026-07-01 | 3 | 17 | 16 | 3 | 0 | 24 |
-| last180d | 2026-04-02 | 6 | 55 | 16 | 7 | 0 | 71 |
-| 360d | 2025-10-04 | 12 | 125 | 17 | 20 | 1 | 169 |
-| last720d | 2024-10-09 | 18 | 213 | 17 | 30 | 3 | 296 |
+| 30d | 2026-08-31 | 3 | 2 | 7 | 1 | 0 | 0 |
+| last60d | 2026-08-01 | 3 | 16 | 16 | 3 | 0 | 0 |
+| 90d | 2026-07-02 | 3 | 17 | 16 | 3 | 0 | 0 |
+| last180d | 2026-04-03 | 6 | 54 | 16 | 7 | 0 | 0 |
+| 360d | 2025-10-05 | 12 | 125 | 17 | 20 | 1 | 0 |
+| last720d | 2024-10-10 | 18 | 213 | 17 | 30 | 3 | 296 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:26:53Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:22:29Z._
