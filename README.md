@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1148 · **Open PRs**: 18 · **Closed issues**: 273 · **Open issues**: 4 · **Commits**: 2506
+- **Releases**: 59 · **Merged PRs**: 1148 · **Open PRs**: 19 · **Closed issues**: 273 · **Open issues**: 4 · **Commits**: 2506
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 3 | 16 | 17 | 2 | 0 | 24 |
-| 90d | 2026-07-10 | 3 | 17 | 17 | 3 | 0 | 24 |
-| last180d | 2026-04-11 | 5 | 50 | 17 | 7 | 0 | 67 |
-| 360d | 2025-10-13 | 12 | 124 | 18 | 20 | 1 | 169 |
-| last720d | 2024-10-18 | 18 | 213 | 18 | 30 | 3 | 296 |
+| 30d | 2026-09-09 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 3 | 16 | 18 | 2 | 0 | 24 |
+| 90d | 2026-07-11 | 3 | 17 | 18 | 3 | 0 | 24 |
+| last180d | 2026-04-12 | 5 | 49 | 18 | 7 | 0 | 67 |
+| 360d | 2025-10-14 | 12 | 123 | 19 | 20 | 1 | 169 |
+| last720d | 2024-10-19 | 18 | 211 | 19 | 30 | 3 | 296 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:50:51Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:47:48Z._
