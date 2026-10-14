@@ -30,9 +30,9 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 3 | 15 | 20 | 2 | 0 | 0 |
-| 90d | 2026-07-15 | 3 | 17 | 20 | 3 | 0 | 0 |
-| last180d | 2026-04-16 | 5 | 40 | 20 | 6 | 0 | 0 |
-| 360d | 2025-10-18 | 12 | 123 | 21 | 20 | 1 | 0 |
-| last720d | 2024-10-23 | 18 | 210 | 21 | 30 | 3 | 294 |
+| 30d | 2026-09-14 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 3 | 15 | 20 | 2 | 0 | 24 |
+| 90d | 2026-07-16 | 3 | 17 | 20 | 3 | 0 | 24 |
+| last180d | 2026-04-17 | 4 | 40 | 20 | 6 | 0 | 53 |
+| 360d | 2025-10-19 | 12 | 120 | 21 | 20 | 1 | 156 |
+| last720d | 2024-10-24 | 18 | 209 | 21 | 30 | 3 | 294 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:38:01Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:37:05Z._
