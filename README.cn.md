@@ -30,8 +30,8 @@ x install znai
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -57,12 +57,12 @@ x install znai
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 3 | 12 | 21 | 2 | 0 | 14 |
-| 90d | 2026-07-24 | 3 | 17 | 21 | 3 | 0 | 24 |
-| last180d | 2026-04-25 | 4 | 35 | 21 | 6 | 0 | 46 |
-| 360d | 2025-10-27 | 12 | 115 | 22 | 20 | 1 | 156 |
-| last720d | 2024-11-01 | 18 | 208 | 22 | 30 | 3 | 292 |
+| 30d | 2026-09-23 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 3 | 12 | 21 | 2 | 0 | 14 |
+| 90d | 2026-07-25 | 3 | 17 | 21 | 3 | 0 | 24 |
+| last180d | 2026-04-26 | 4 | 34 | 21 | 6 | 0 | 46 |
+| 360d | 2025-10-28 | 12 | 115 | 22 | 20 | 1 | 156 |
+| last720d | 2024-11-02 | 18 | 205 | 22 | 30 | 3 | 292 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ znai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:25:15Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:29:59Z._
