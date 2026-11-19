@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 279 · **Forks**: 21 · **Open issues**: 277 · **Contributors**: 14
+- **Stars**: 280 · **Forks**: 21 · **Open issues**: 277 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 11 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 3 | 13 | 23 | 2 | 0 | 22 |
-| last180d | 2026-05-21 | 4 | 24 | 23 | 5 | 0 | 33 |
-| 360d | 2025-11-22 | 9 | 104 | 24 | 16 | 1 | 142 |
-| last720d | 2024-11-27 | 16 | 190 | 24 | 28 | 3 | 268 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 11 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 3 | 13 | 23 | 2 | 0 | 22 |
+| last180d | 2026-05-23 | 4 | 24 | 23 | 5 | 0 | 33 |
+| 360d | 2025-11-24 | 9 | 102 | 24 | 16 | 1 | 142 |
+| last720d | 2024-11-29 | 16 | 190 | 24 | 28 | 3 | 268 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for znai lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:44:13Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:05:26Z._
