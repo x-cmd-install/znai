@@ -7,7 +7,7 @@ about:
   latestVersion: "1.93"
   latestRelease: "1.93"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:06:49Z
+  collectedAt: 2026-11-28T08:55:47Z
 timeline:
   created: 2016-12-16
   lastCommit: 2026-09-04
@@ -46,15 +46,15 @@ language:
 totalBytes: 4246032
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
-    openPR: 3
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 10
@@ -62,15 +62,15 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
-    mergedPR: 7
+    mergedPR: 6
     openPR: 22
     closedIssue: 2
     openIssue: 0
     commit: 7
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 3
     mergedPR: 22
     openPR: 23
@@ -78,7 +78,7 @@ recent:
     openIssue: 0
     commit: 27
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 9
     mergedPR: 102
     openPR: 24
@@ -86,7 +86,7 @@ recent:
     openIssue: 1
     commit: 141
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 16
     mergedPR: 190
     openPR: 24
@@ -102,7 +102,7 @@ total:
   commit: 2506
 ---
 path: /home/runner/.x-repo/github.com/testingisdocumenting/znai
-collectedAt: 2026-11-27T10:06:56Z
+collectedAt: 2026-11-28T08:55:54Z
 loc:
   Java:
     code: 28427
